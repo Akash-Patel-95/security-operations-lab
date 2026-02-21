@@ -23,7 +23,7 @@ To develop practical SOC L1 skills through:
 
 ## 🔎 Lab Projects
 
-### 1️⃣ SIEM Deployment & Endpoint Monitoring
+### **[1️⃣SIEM Deployment & Endpoint Monitoring](https://github.com/Akash-Patel-95/SIEM-Deployment-Endpoint-Monitoring-Lab)**
 - Deployed Wazuh SIEM on a virtualized environment
 - Installed agents on:
   - Linux servers
