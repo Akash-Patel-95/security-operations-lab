@@ -39,27 +39,6 @@ To develop practical SOC L1 skills through:
 
 ---
 
-### 2️⃣ Network Intrusion Detection (Planned / In Progress)
-- Deploying Suricata IDS in a segmented VLAN environment
-- Enabling EVE JSON log output
-- Forwarding logs to SIEM
-- Simulating:
-  - Port scans (Nmap)
-  - Brute force attempts
-  - Suspicious traffic patterns
-- Analyzing generated alerts for false positives and tuning
-
----
-
-### 3️⃣ Vulnerability Management Lab
-- Deployed Nessus vulnerability scanner
-- Conducted internal network scans
-- Categorized findings by severity
-- Reviewed remediation recommendations
-- Documented risk exposure and prioritization approach
-
----
-
 ## 🏗 Lab Environment Overview
 
 - Virtualization Platform: Proxmox VE
